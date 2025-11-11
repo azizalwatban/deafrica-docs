@@ -21,7 +21,7 @@ Digital Earth Arabia Map
 
    .. container:: product-item
 
-      .. image:: ../_static/maps/Workbench.jpg
+      .. image:: ../_static/maps/map_ui.png
          :target: deafrica_map
          :width: 400
          :align: left
