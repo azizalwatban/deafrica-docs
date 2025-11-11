@@ -28,7 +28,7 @@ Digital Earth Arabia Map
 
       :doc:`deafrica_map`
 
-      The Digital Earth Africa interactive visualisation map provides users with the tools to visualise satellite images and decision ready data over the African continent.
+      The Digital Earth Arabia interactive visualisation map provides users with the tools to visualise satellite images and decision ready data over Saudi Arabia.
 
       :doc:`More <deafrica_map>`
 
@@ -36,12 +36,12 @@ Digital Earth Arabia Map
 
 
 
-Digital Earth Africa Sandbox
+Digital Earth Arabia Sandbox
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. toctree::
    :hidden:
-   :caption: Digital Earth Africa Sandbox
+   :caption: Digital Earth Arabia Sandbox
    :maxdepth: 1
 
 
