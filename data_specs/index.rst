@@ -111,40 +111,6 @@ Land Cover
     
            :doc:`More <IO_LULC_specs>`
            
-Meteorology           
-^^^^^^^^^^^
-
-.. toctree::
-   :caption: Meteorology     
-   :hidden:
-   :maxdepth: 1
-
-    CHIRPS_specs
-    ERA5_Climate_Data_specs
-           
-
-.. container:: product-list
-
-    .. container:: product-item
-
-       .. image:: ../_static/data_specs/CHIRPS_thumbnail.png
-
-       :doc:`CHIRPS_specs`
-
-       Daily and monthly rainfall estimates from rain gauge and satellite observations.
-
-       :doc:`More <CHIRPS_specs>`
-
-    .. container:: product-item
-
-       .. image:: ../_static/data_specs/ERA5_thumbnail.png
-
-       :doc:`ERA5_Climate_Data_specs`
-
-       ERA5 global climate reanalysis product by the Copernicus Climate Change Service (C3S) at the ECMWF.
-
-       :doc:`More <ERA5_Climate_Data_specs>`
-
 
 Satellite images
 ^^^^^^^^^^^^^^^^
