@@ -1,12 +1,12 @@
-.. Digital Earth Africa documentation master file, created by
-   sphinx-quickstart on Wed Feb 17 00:08:26 2021.
+.. Digital Earth Arabia documentation master file, created by
+   sphinx-quickstart on Tue Nov 11 2025.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Digital Earth Africa User Guide
+Digital Earth Arabia User Guide
 ===============================
 
-The `Digital Earth Africa <https://www.digitalearthafrica.org/>`_ platform
+The `Digital Earth Arabia <https://digitaleartharabia.ssa.gov.sa/>`_ platform
 consists of a repository of Earth Observation data and a set of tools to
 view and analyse the data.
 
@@ -36,7 +36,7 @@ Data
 
       :doc:`data_specs/index`
 
-      Technical specifications of all Digital Earth Africa datasets, products, and services
+      Technical specifications of all Digital Earth Arabia datasets, products, and services
 
       :doc:`More <data_specs/index>`
    
@@ -62,7 +62,7 @@ Platforms
 
       :doc:`platform_tools/index_platform`
 
-      Technical documentation and user guides for Digital Earth Africa Platforms
+      Technical documentation and user guides for Digital Earth Arabia Platforms
 
       :doc:`More <platform_tools/index_platform>`
 
@@ -89,7 +89,7 @@ Direct Access
 
       :doc:`platform_tools/index_direct_access`
 
-      Documentation and user guides for accessing data outside Digital Earth Africa Platforms
+      Documentation and user guides for accessing data outside Digital Earth Arabia Platforms
 
       :doc:`More <platform_tools/index_direct_access>`
 
