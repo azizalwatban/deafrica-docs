@@ -8,10 +8,8 @@ Metadata Explorer
    explorer_guide
 
 
-The `Digital Earth Metadata Explorer <https://explorer.digitalearth.africa/products>`_
-shows the products available on the Digital Earth Africa platform.
-
-It can be found at `explorer.digitalearth.africa <https://explorer.digitalearth.africa/>`_
+The `Digital Earth Metadata Explorer <https://explorer.digitaleartharabia.ssa.gov.sa/products>`_
+shows the products available on the Digital Earth Arabia platform.
 
 The explorer allows you to see where and when you can find data.
 
