@@ -42,7 +42,7 @@ Glossary
 
    JupyterLab
       An interactive web-based user interface for editing and running Jupyter Notebooks.
-      JupyterLab is used as an analysis environment on the DE Africa Sandbox.
+      JupyterLab is used as an analysis environment on the DE Arabia Sandbox.
 
    Landsat
       A joint NASA/USGS program of medium resolution satellites that have been
@@ -61,7 +61,7 @@ Glossary
 
    ODC
       Open Data Cube, an international open-source project developing the technology
-      that powers Digital Earth Africa. For more information see
+      that powers Digital Earth Arabia. For more information see
       http://opendatacube.org/.
       
    OGC
